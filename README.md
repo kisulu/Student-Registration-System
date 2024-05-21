@@ -1,7 +1,7 @@
 # Student-Registration-System
 Complete students registration systems with login and sign up page, mysql as the backend sample of table given in excel.
 
-Libraries and Packages Used 
+Libraries and Packages Used:
 from tkinter import *
 from datetime import date
 from tkinter import filedialog
