@@ -1,6 +1,9 @@
 from tkinter import *
 from tkinter import messagebox
-import mysql.connector
+try:
+    import mysql.connector
+except:
+    print("mysql.connector not available")
 
 background = "#06283d"
 frame_bg = "#EDEDED"
